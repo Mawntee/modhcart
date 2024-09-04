@@ -23,7 +23,7 @@ NOTE: Most of these are old V2 and outdated, but many of the concepts (other tha
 Personal:
 - [v2] [Small Shock](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/Small%20shock) - Extremely basic note scale example -> https://beatsaver.com/maps/10636
 - [v2] [How Low Can You Smash, Bro?](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/How%20Low%20Can%20You%20Smash%20Bro) - Random assortment of basic note animations -> https://beatsaver.com/maps/10583
-- [v2] [C18H27NO3](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/C18H27NO3) - More complex, and effect diverse map -> https://beatsaver.com/maps/17d7e | Video: https://www.youtube.com/watch?v=5xA3iR5v-Rk
+- [v2] [C18H27NO3](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/C18H27NO3) - More complex, and effect diverse map -> https://beatsaver.com/maps/17d7e | [Video](https://www.youtube.com/watch?v=5xA3iR5v-Rk)
 - [V3] [Fun!](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/FUN) - First V3 modchart, very simplistic notemods, njs changes, and arc strobing/flickering effects.
 Other Mappers:
 - [Swifter](https://github.com/Swifter1243/MapScripts) - TS -> Collection of previous open source map scripts, mostly using his ReMapper framework
