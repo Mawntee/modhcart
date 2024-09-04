@@ -15,7 +15,7 @@ Please, **Please** watch this last one before starting **any** animation project
 - [Easings Examples](https://easings.net/) - Showcase of many available easing types -> only ones missing are "easeStep" (sudden snap from A to B) and "easeLinear" (relatively useless / is the default animation type when left undefined)
 - [Kivals Mapping Utility](https://kivalevan.me/BeatSaber-MappingUtility/) - I mostly use this for the NJS calculator, but it has many other tools such as: Effective BPM & Time Precision, Color Picker/Exporter, Score Calculator, Diff SPS Difference, In-game Diff Label Generator, and a Random Pattern Generator
 - [Swifter's ReMapper](https://github.com/Swifter1243/ReMapper) - An INSANELY overpowered and over engineered framework for working with the Heck suite. Has a simplified sytanx, plenty of utilities and functions mostly based around Chroma and environment effects, including a Blender static/animation scene exporter.
-  - I HIGHLY recommend this for anyone focusing more on visuals vs. notemod effects. It requires some *minimal* coding expreience, and can be *slightly* difficult to debug due to differing syntax, but it's where I push most people to when they ask how to make these things!
+  - I HIGHLY recommend this for anyone focusing more on visuals vs. notemods. It requires some *minimal* coding expreience, and can be *slightly* difficult to debug due to differing syntax, but it's where I push most people to when they ask how to make these!
 
 ### Map/Script examples.
 NOTE: Most of these are old V2 and outdated, but many of the concepts (other than fake notes/syntax) still apply to modern modcharting.
