@@ -1,7 +1,7 @@
 # Buncha random links that I have bookmarked, and consistently go back reference in just about every map that I make.
 
 ### Documentation:
-- [Heck - Main](https://github.com/Aeroluna/Heck/wiki/) - Main documentation hub for everything related to the Heck suite of mods
+- [Heck](https://github.com/Aeroluna/Heck/wiki/) - Main documentation hub for everything related to the Heck suite of mods
 - [BSMG Intermediate Mapping Guide](https://bsmg.wiki/mapping/intermediate-mapping.html) - Might seem redundant, but covers a lot of concepts that only get emphasized when creating notemods with Noodle. Everyone, please check this out.
 - [Map Formatting](https://bsmg.wiki/mapping/map-format/beatmap.html) - Breakdown of what all the funny letters mean in a maps difficulty file
 - [Chroma Logs](https://github.com/UGEcko/Chroodle/tree/main/ChromaLogs) - List of regex lookups for environment objects from the Chroma output logs.
