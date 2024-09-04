@@ -22,9 +22,9 @@ NOTE: Most of these are old V2 and outdated, but many of the concepts (other tha
       For any of my charts, look for a region titled: "Do your dirty work here" (usually near the bottom, after the helper functions region) in the '.js' file for the actual bits whcih create the animations/map effects.
 
 Personal:
-- [v2] [Small Shock](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/Small%20shock) - Extremely basic note scale example -> [Beatsaver link](https://beatsaver.com/maps/10636)
-- [v2] [How Low Can You Smash, Bro?](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/How%20Low%20Can%20You%20Smash%20Bro) - Random assortment of basic note animations -> [Beatsaver link](https://beatsaver.com/maps/10583)
-- [v2] [C18H27NO3](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/C18H27NO3) - More complex, and effect diverse map -> [Beatsaver link](https://beatsaver.com/maps/17d7e) | [Video](https://www.youtube.com/watch?v=5xA3iR5v-Rk)
+- [v2] [Small Shock](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/Small%20shock) - Extremely basic note scale example -> [Beatsaver](https://beatsaver.com/maps/10636)
+- [v2] [How Low Can You Smash, Bro?](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/How%20Low%20Can%20You%20Smash%20Bro) - Random assortment of basic note animations -> [Beatsaver](https://beatsaver.com/maps/10583)
+- [v2] [C18H27NO3](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/C18H27NO3) - More complex, and effect diverse map -> [Beatsaver](https://beatsaver.com/maps/17d7e) | [Video](https://www.youtube.com/watch?v=5xA3iR5v-Rk)
 - [V3] [Fun!](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/FUN) - First V3 modchart, very simplistic notemods, njs changes, and arc strobing/flickering effects.
 
 Other Mappers:
