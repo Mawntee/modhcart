@@ -122,4 +122,4 @@ Now that everything is set up, head on over to the ["Releases"](https://github.c
 
 - [Script Download](https://github.com/Mawntee/modhcart/releases/tag/wumbo)
 
-- [Setup and Usage Guide]()
+- [Setup and Usage Guide](https://github.com/Mawntee/modhcart/blob/main/Templates%20and%20Tools/Wumbo%20Modchart%20Template/Setup%20and%20Usage.md)
