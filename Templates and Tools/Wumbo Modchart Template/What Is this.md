@@ -112,10 +112,14 @@ The map setup is fairly basic. The way the script is set up is in a "non destruc
 
 My usual workflow for this is first creating a "lawless" category difficulty to act as my input, and then copying that difficulty over to the "standard" category to act as the final output dif. I then change the difficulty names accourdingly. 
 
-Example: Lawless as "Ex+ Input" and Standard as "Ex+ Final"
+**Example:** Lawless as "Ex+ Input" and Standard as "Ex+ Final"
 
 
 
 ## Actually using the script:
 
-Now that everything is set up, head on over to the "Releases" page to get the latest download for the script, and then head on over the Usage Guide for a breakdown on wtf is going on.
+Now that everything is set up, head on over to the ["Releases"](https://github.com/Mawntee/modhcart/releases/tag/wumbo) page to get the latest download for the script, and then head on over the Usage Guide for a breakdown on wtf is going on.
+
+- [Script Download](https://github.com/Mawntee/modhcart/releases/tag/wumbo)
+
+- [Setup and Usage Guide]()
