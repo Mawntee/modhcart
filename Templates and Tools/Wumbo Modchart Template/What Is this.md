@@ -39,9 +39,9 @@ In the mean time, here's the basics that you will need to get going
 
 # Setup and Use:
 ## Installing required software:
-Download and install both of these:
-- Visual Studio Code: https://code.visualstudio.com/
-- Node.JS: https://nodejs.org/
+**Download and install both of these:**
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Node.JS](https://nodejs.org/)
 *We will download and setup the script in a bit! First we need to enable dev tools in game, and set up the map correctly!*
 
 ## Game Setup:
