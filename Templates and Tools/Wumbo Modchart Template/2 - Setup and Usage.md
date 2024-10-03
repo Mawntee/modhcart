@@ -219,9 +219,10 @@ note.customData.animation.dissolveArrow = [[1, 0.125], [0, 0.375, "easeInOutCubi
 - In the second keyframe, has the arrow fully invisible `0`, at the `0.375` point.
 - Uses an "InOut" style [easing](https://easings.net/) on the animation, so the peak speed of this animation happens at time `0.25` (aka the half jump)
 
-I specifically chose the height of the animation to happen at 0.25 because the notes jump animation is directly synced to the songs BPM, offset, and "half jump duration".
+I specifically chose the height of the animation to happen at `0.25` because the notes jump animation is directly synced to the songs BPM, offset, and "half jump duration".
 
 If you have a note placed on every whole beat, and a "start beat offset" of 0, then that note will start it's jump animation exactly on beat and in sync with the songs BPM, as if it were a metronome. This means that the notes lifetime point of `0.25` will sync up exactly with every half beat! This is a very subtle thing that's not immediately noticeable, but ultimately leads to ***extremely*** satisfying note animations and easily reduces a lot of the "jank" that people typically feel when playing modcharts.
+- Also, since I'm dumb and can't ever remember these values off the top of my head, [here's a handy little chart that I use with everything already laid out!](http://www.cleavebooks.co.uk/scol/equivf.htm)
 
 Let's take a look at the final bit of code with some more reasonable values entered in for everything:
 
@@ -235,4 +236,31 @@ Most of the modcharting process while using this script will all be things simil
 I ***highly*** recommend taking a read through the rest of the copy/paste stuff and reading through the comments to figure out what each thing does after you're done here!
 
 ## Usage - Using Functions for Common Repeat Tasks
-Another thing worth mentioning is the use of **"Functions"**:
+Another thing worth mentioning is the use of **"Functions"**
+
+Functions are kind of like "preset", but for code.
+
+You start by giving the function a name, and a list of variables that can mean pretty much anything. Then inside the function you write all the code as you normally would, but then instead of writing in exact numbers and stuff directly, you instead replace those numbers with the variables written above. This lets you simply write out the function time, and then a few numbers, instead of having to re-write dozens of lines of code over and over again, just to change a couple values.
+
+I've made a whole bunch of these in the script that you can find in the "List of Available Functions" region:
+
+![image](https://github.com/user-attachments/assets/85c89b96-f1ba-4005-bcd5-493917064780)
+
+To use them, simply copy/paste the one you want to use, and replace the variables with whatever values you want!
+
+The example below grabs a bunch of notes in between beats 69 and 420, and assigns them a "track" based on their cut direction, and original input track name. Assuming no errors, the info for these generated track names are shown in the log below:
+
+![image](https://github.com/user-attachments/assets/15163d7c-1fd2-4aee-9fb2-f43bdd19281a)
+
+# ADVANCED STUFF
+
+There's so much else here that I could actually stay up all night typing things out, but I'll jsut save that for when I actually work on the wiki.
+
+In the mean time, [check out my video where I go over litrally every animation type used in Noodle, and when/how to use it](https://www.youtube.com/watch?v=nMHaPJ8o-Jk) (I'm specifically using this style of script btw)
+
+[And my older examples of maps that have animations built using this same style of script.](https://github.com/Mawntee/BS-Modchart-Mapping-Files/blob/e1cfa1e6fa5fd24508e94c0dfd71465c15f9e1f8/FUN/FunV3.js#L1253)
+
+
+If you're still reading this far... *omgthankyousomuchijustreallywanttoseepeoplemakingcoolstuffandstartplayingwithfunnynotegimmicksagainahhhh!!!!!!!!*
+
+# AGAIN, IF YOU EVER HAVE ANY ISSUES MY DISCORD DM'S ARE ALWAYS OPEN FOR HELP WITH NOODLE STUFF!!!!!
