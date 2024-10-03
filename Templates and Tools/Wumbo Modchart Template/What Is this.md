@@ -6,16 +6,19 @@ I recently spent the last few weeks giving it a bit of an overhaul so it can be 
 
 ## Who is it for?
 This template is geared towards (experienced) ***MAPPERS!!!*** 
-***Not*** designers, 3D modelers, lighting techs, or comp-sci major turbo nerds.
-While I did try to make it friendly for people that aren't familiar with code (and/or don't want to learn how to code), this is expected that you have a ***very*** in-depth knowledge of beat saber mapping in general, you're somewhat familiar with the info.dat/difficulty file formatting and structure, and that you know most of the common jargon around
 
-The actual workflow of this is very barebones, with almost all features geared towards working with the playable objects (Note, Walls, Bombs, Etc.)
-I tried to keep most things as close to the raw JSON syntax as possible (default difficulty file formatting and terms), with only a few minor changes to terms where I felt they would speed up workflows while still being obvious enough to understand. The reason to keep things the same and *not* simplify them is because having to memorize things three different times and refrence multiple documentations just to do one thing SUCKS.
-With this you can look up both the documentation for the base game formating, or look at the Noodle/Chroma documentation, and everything will still make relative sense without having to do a bunch of mental gymnastics.
+***Not*** designers, 3D modelers, lighting techs, or comp-sci major turbo nerds.
+
+While I did try to make it friendly for people that aren't familiar with code (and/or don't want to learn how to code), it is expected that you have a ***very*** in-depth knowledge of beat saber mapping in general, you're somewhat familiar with the info.dat/difficulty file formatting and structure, and that you know most of the common jargon around mapping.
+
+The actual workflow of this is very barebones, with almost all features geared towards working with playable objects *(notes, walls, bombs, etc).*
+I tried to keep most things as close to the raw JSON syntax as possible (default difficulty file formatting and terms), with only a few minor changes to terms where I felt they would speed up workflows while still being obvious enough to understand. 
+
+The reason to keep things the same and *not* simplify them is because having to memorize the same things three or more times and refrence multiple documentations just to do one thing SUCKS! With this, you can look up both the documentation for the base game formating, or look at the Noodle/Chroma documentation, and everything will still make relative sense without requiring you to do a bunch of mental gymnastics.
 
 
 ## Why is this over 3000 lines long?!?
-Mappers (myself included), are **LAZY!** 
+Mappers (myself included), are **LAZY!!!** 
 
 Most of us either don't like to, or can't remember every little bit of documentation, instruction, tip, or reference needed when working on things.
 This script has everything all contained in a single package, and seperated into regions with their own indexed search terms that can quickly be CTRL+F'd to if you want to look something up.
@@ -38,7 +41,7 @@ Since this is still in the VERY early stages of release, I haven't made a proper
 In the mean time, here's the basics that you will need to get going
 
 # Setup and Use:
-## Installing required software:
+### Installing required software:
 **Download and install both of these:**
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Node.JS](https://nodejs.org/)
@@ -62,6 +65,7 @@ In the mean time, here's the basics that you will need to get going
 These you can find in your UserData foler.
 
 **Camera2:** 
+
 I personally find it quite useful to create a unique Cam2 camera for FPFC.
 You can do this by clicking on the camera 2 tab, creating a new camera like you normally would, but adjust it's settings so that there is no z offset, it's visibility see's everything at max distance, and then settings it's "scenes" to only be active in FPFC. For a more accuracte representation of what a player would see in headset, I recommend lowering the FOV to something around the 70-80 range. 
 Personally, I have multiple cameras set up to unique scenes, and each scene having it's own keybind. One camera is a low FOV around the 65 range, and the other is my main FPFC camera at 85 fov.
@@ -82,6 +86,7 @@ Check out the Camera2 documentation for more info on how to set that up.
 
 **Chroma:**
 - `"PrintEnvironmentEnhancementDebug"` When "true" will log all environment object data while playing any map with a "Chroma" requirement or suggestion. These logs can be found in the "logs" folder under `_latest.log`
+
 You can also find a dump of a bunch of ready made and organized log files here: https://github.com/UGEcko/Chroodle/tree/main/ChromaLogs
 
 **Heck:** (ReLoader)
