@@ -95,7 +95,9 @@ These contain all the settings for the previously mentioned "ReLoader" debug too
 
 ***Note:*** *All these keybinds work without requiring you to actually pause the game! You're free to scrub back and fourth, set new "in" points, and reload the map from those points at any time while the song is playing! Just keep in mind that "hot reloading" with spacebar only works with playable objects and lighting events. Environment enhancements, Chroma Geometry, and some custom events might not work correctly with hot reloads.*
 
-*If something seems off, restart the level to reload the scene, if it still seems off, back out to the menu and refresh completely to check."Hot reloads" do* ***NOT*** *count as full refreshes! Once you back out to the menu, you will have to refresh the song as normal by hitting "R" for a quick song refresh, or "CTRL+R" for a full playlist refresh.*
+*If something seems off, restart the level to reload the scene. If it still seems off, back out to the menu and refresh completely to check.*
+
+*"Hot reloads" do* ***NOT*** *count as full refreshes! Once you back out to the menu, you will have to refresh the song as normal by hitting "R" for a quick song refresh, or "CTRL+R" for a full playlist refresh.*
 
 ***Anyway...*** most of these options are self explanatory, but just to clear things up, here's what the default keybinds do:
 - `Space` Hot reloads all playable objects and lights (excluding geometry and/or environment enhancements) from the current start time.
