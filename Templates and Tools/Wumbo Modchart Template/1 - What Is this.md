@@ -1,4 +1,6 @@
 # WUMBO TEMPLATE
+- *Download is at the very bottom, but you gotta read everything first!!!!*
+
 This documentation is currently only meant to be a sprint through the setup, basic practices, and how to deal with any errors that may occur. Everything in here is still *kinda* rough as of right now, but if you take the 30-45 minutes to follow through from start to finish, you should have everything set up and also be able to navigate your way around through the script/animations
 
 I will be migrating this over to a properly categorized wiki shortly, as well as expanding on like every topic here. In the mean time, I hope this can at least get you familiar with the basics, and even started on some advanced things! ***Good luck!!! :3***
