@@ -118,7 +118,7 @@ My usual workflow for this is first creating a "lawless" category difficulty to 
 
 ## Actually using the script:
 
-Now that everything is set up, head on over to the ["Releases"](https://github.com/Mawntee/modhcart/releases/tag/wumbo) page to get the latest download for the script, and then head on over the Usage Guide for a breakdown on wtf is going on.
+Now that everything is set up, head on over to the "Releases" page to get the latest download for the script, and then head on over the Usage Guide for a breakdown on wtf is going on.
 
 - [Script Download](https://github.com/Mawntee/modhcart/releases/tag/wumbo)
 
