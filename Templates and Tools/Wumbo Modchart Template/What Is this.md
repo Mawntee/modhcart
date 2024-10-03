@@ -42,7 +42,7 @@ In the mean time, here's the basics that you will need to get going
 
 # Setup and Use:
 ### Installing required software:
-**Download and install both of these:**
+Download and install both of these:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Node.JS](https://nodejs.org/)
 *We will download and setup the script in a bit! First we need to enable dev tools in game, and set up the map correctly!*
@@ -53,7 +53,7 @@ In the mean time, here's the basics that you will need to get going
 - `--verbose` -> Enables the console window which will display any errors and stuff (red/purple text) that Chroma/Noodle will yell at you when you inevitably break something.
 - `fpfc` -> Allows you to use the game and fly around in desktop mode, without needing a VR headset. (First Person Free cam)
 
-**To set these in Steam:**
+**How to set these in Steam:**
 - Right click on the game in your library
 - Add each argument to the "Launch Options" text box under the "General" tab
 
@@ -61,8 +61,8 @@ In the mean time, here's the basics that you will need to get going
 - Click both boxes for "FPFC Mode" and "Debug Mode" so that they have a rainbow highlight
 - Select the "Advanced launch" button below, and then enter in the text for `-aerolunaisthebestmodder`
 
-### Other Configs:
-These you can find in your UserData foler.
+### Other Configs: 
+(Located in your "UserData" folder)
 
 **Camera2:** 
 
@@ -87,7 +87,7 @@ Check out the Camera2 documentation for more info on how to set that up.
 **Chroma:**
 - `"PrintEnvironmentEnhancementDebug"` When "true" will log all environment object data while playing any map with a "Chroma" requirement or suggestion. These logs can be found in the "logs" folder under `_latest.log`
 
-You can also find a dump of a bunch of ready made and organized log files here: https://github.com/UGEcko/Chroodle/tree/main/ChromaLogs
+*[You can also find a dump of a bunch of ready made and organized log files here](https://github.com/UGEcko/Chroodle/tree/main/ChromaLogs)*
 
 **Heck:** (ReLoader)
 
@@ -101,4 +101,18 @@ Anyway, most of these options are self explanatory, but just to clear things up,
 - `Left CTRL` Sets a new "start time"
 - `Arrow Keys L + R` Skips forward or back throughout the song x amount of beats defined by the  `"ScrubIncrement"` setting (Default 5.0)
 
-***Note:*** *You can only scrub back to and/or reload what is alread loaded by the game in practice mode. If you start the song at 30s in practice mode, and scrub back to 10s, you aren't going to see anything. This is normal. Best practice is to always start at 0s, then use the arrow keys to scrub forward, and the CTRL key to set your "in" point with ReLoader instead.*
+***Note pt.2:*** *You can only scrub back to and/or reload what is alread loaded by the game in practice mode. If you start the song at 30s in practice mode, and scrub back to 10s, you aren't going to see anything. This is normal. Best practice is to always start at 0s, then use the arrow keys to scrub forward, and the CTRL key to set your "in" point with ReLoader instead.*
+
+
+## Map Setup:
+The map setup is fairly basic. The way the script is set up is in a "non destructive" format. Meaning it doesn't actually modify the difficulty file you're working on directly in Chromapper, but instead reads from that file as an "input" difficulty, creates a bunch of changes, and then generates a new "output" difficulty. This allows you to freely place and move around notes in the vanilla "base" map, and not have to worry about accidentally breaking something if and when you ever need to go back and make changes.
+
+My usual workflow for this is first creating a "lawless" category difficulty to act as my input, and then copying that difficulty over to the "standard" category to act as the final output dif. I then change the difficulty names accourdingly. 
+
+Example: Lawless as "Ex+ Input" and Standard as "Ex+ Final"
+
+
+
+## Actually using the script:
+
+Now that everything is set up, head on over to the "Releases" page to get the latest download for the script, and then head on over the Usage Guide for a breakdown on wtf is going on.
