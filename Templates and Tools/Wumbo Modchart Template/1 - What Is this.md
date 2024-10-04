@@ -113,7 +113,7 @@ These contain all the settings for the previously mentioned "ReLoader" debug too
 
 
 ## Map Setup:
-The map setup is fairly basic. The way the script is set up is in a "non destructive" format. Meaning it doesn't actually modify the difficulty file you're working on directly in Chromapper, but instead reads from that file as an "input" difficulty, creates a bunch of changes, and then generates a new "output" difficulty. This allows you to freely place and move around notes in the vanilla "base" map, and not have to worry about accidentally breaking something if and when you ever need to go back and make changes.
+The map setup is fairly basic. This script is set up in a "non-destructive" format. Meaning it doesn't actually modify the difficulty file you're working on directly in Chromapper, but instead reads from that file as an "input" difficulty, creates a bunch of changes, and then generates a new "output" difficulty. This allows you to freely place and move around notes in the vanilla "base" map, and not have to worry about accidentally breaking something if and when you ever need to go back and make changes.
 
 My usual workflow for this is first creating a "lawless" category difficulty to act as my input, and then copying that difficulty over to the "standard" category to act as the final output dif. I then change the difficulty names accourdingly. 
 
