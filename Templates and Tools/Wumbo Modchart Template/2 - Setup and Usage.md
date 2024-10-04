@@ -1,7 +1,7 @@
 # Script Setup/Overview
 
 ## Setup
-- Drag the script (.js) file into the map folder alongside the info.dat, ogg, and difficulty.dat files
+- Drag the script (.js) file into the map folder (alongside the info.dat, ogg, and difficulty.dat files)
 - Open Visual Studio Code, Navigate to `File` -> `Open Folder...`, and then select your map folder.
   - If it asks you if you trust whatever, just blindly slap the yes button. You can trust me :3
 
