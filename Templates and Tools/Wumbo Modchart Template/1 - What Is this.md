@@ -127,4 +127,4 @@ Now that everything is set up, head on over to the "Releases" page to get the la
 
 - [Script Download](https://github.com/Mawntee/modhcart/releases/tag/wumbo)
 
-- [Setup and Usage Guide](https://github.com/Mawntee/modhcart/blob/main/Templates%20and%20Tools/Wumbo%20Modchart%20Template/Setup%20and%20Usage.md)
+- [Setup and Usage Guide](https://github.com/Mawntee/modhcart/blob/main/Templates%20and%20Tools/Wumbo%20Modchart%20Template/2%20-%20Setup%20and%20Usage.md)
