@@ -184,8 +184,8 @@ To do this properly, we need to understand how the timing here works. The last v
 Here's a list of these timings, and how they relate to the jump animation:
 ```
 Context:
-- Before 0 = note is flying in crazy fast from the distance, and is always a down note, on the bottom row
-- Doubles will always spawn with blur on right, red on left
+- Anything before time 0 = Note is approaching crazy fast from the distance, and will always start as a down note on the bottom row
+- Doubles will always spawn with blue on right, and red on left
 - Stacks/towers will spawn as a stack, but as close to the bottom as possible.
 
   0     = Note starts jump -> Spawn light flashes -> (this is the point where reaction time is usually calculated)
