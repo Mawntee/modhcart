@@ -33,6 +33,7 @@ NOTE: Most of these are old V2 and outdated, but many of the concepts (other tha
 
 ### Other Mappers:
 - [Swifter](https://github.com/Swifter1243/MapScripts) - [TS] -> Collection of previous open source map scripts, mostly using his ReMapper framework
+   - [Vivify map example](https://github.com/Swifter1243/you_map) from Swifter's Extra Sensory II chart, "You" - (Literally all the project files for his EXSII map)
 - [StormPacer](https://github.com/StormPacer/Noodle-Maps) - [JS]
 - [Jevk](https://github.com/Jevk/JevkMaps) - [JS] -> all outdated V2, but still could be a decent ref
 - [Totally Balloon](https://github.com/Infinit3/le-monke-maps) - [TS] -> Has a few Blender examples in there as well!
