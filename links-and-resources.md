@@ -1,7 +1,7 @@
 # buncha random links that I have bookmarked and consistently go back to reference when mapping
 
 ## Documentation:
-- [Heck](https://github.com/Aeroluna/Heck/wiki/) - Main documentation hub for everything related to the Heck suite of mods
+- [Heck](https://heck.aeroluna.dev/) - Main documentation hub for everything related to the Heck suite of mods
 - [BSMG Intermediate Mapping Guide](https://bsmg.wiki/mapping/intermediate-mapping.html) - Might seem redundant, but covers a lot of concepts that only get emphasized when creating notemods with Noodle. Everyone, please check this out.
 - [Map Formatting](https://bsmg.wiki/mapping/map-format/beatmap.html) - Breakdown of what all the funny letters mean in a maps difficulty file
 - [Chroma Logs](https://github.com/UGEcko/Chroodle/tree/main/ChromaLogs) - List of regex lookups for environment objects from the Chroma output logs.
@@ -10,13 +10,16 @@
 - [Video: Heck Animation Overview](https://www.youtube.com/watch?v=nMHaPJ8o-Jk) - Slightly rough video, but this covers every style of animation possible with Noodle/Chroma w/ examples. 
 Please, **Please** watch this last one before starting **any** animation project with Noodle or Chroma! Then come back to revist after getting somewhat familiar with animations. Thanks in advance <333
 
-## Helpful Tools & References:
+## Mapping Scripts/Tools
+- [Swifter's ReMapper](https://github.com/Swifter1243/ReMapper) - An INSANELY overpowered and over-engineered framework for working with the Heck suite. Has a simplified sytanx, plenty of utilities and functions mostly based around Chroma and environment effects, including a Blender static/animation scene exporter.
+  - I HIGHLY recommend this for anyone focusing more on visuals vs. notemods. It requires some *minimal* coding expreience, and can be *slightly* difficult to debug due to differing syntax, but it's where I push most people to when they ask how to make these!
+- [My Mapping Template](https://github.com/Mawntee/modhcart/blob/main/Templates%20and%20Tools/Wumbo%20Modchart%20Template/1%20-%20What%20Is%20this.md) - Aimed at people who have little to no coding experience, but a decent chunk of mapping experience. JS based script with a majority of the Heck documentation re-written as easy copy/paste with detailed comments explaining every feature. Starts with a walkthrough guide that takes you from have literally zero code stuff installed, to have a dissapearing arrow effect created in ~20min. Also includes a lot of the basic info on game settings, workflow, and map debugging/problem solving.
+
+## Other Helpful Tools & References:
 - [Equivalent Fractions Table](http://www.cleavebooks.co.uk/scol/equivf.htm) - EXTREMELY useful for timing and syncing [path animations](https://github.com/Aeroluna/Heck/wiki/Animation#assignpathanimation) along with the the games base jump animations/bpm.
 - [Easings Examples](https://easings.net/) - Showcase of many available easing types -> only ones missing are "easeStep" (sudden snap from A to B) and "easeLinear" (relatively useless / is the default animation type when left undefined)
 - [RegExr](https://regexr.com/) - Helpful tool to check if your regex lookup (for environment stuff) is scorrect.
 - [Kivals Mapping Utility](https://kivalevan.me/BeatSaber-MappingUtility/) - I mostly use this for the NJS calculator, but it has many other tools such as: Effective BPM & Time Precision, Color Picker/Exporter, Score Calculator, Diff SPS Difference, In-game Diff Label Generator, and a Random Pattern Generator
-- [Swifter's ReMapper](https://github.com/Swifter1243/ReMapper) - An INSANELY overpowered and over engineered framework for working with the Heck suite. Has a simplified sytanx, plenty of utilities and functions mostly based around Chroma and environment effects, including a Blender static/animation scene exporter.
-  - I HIGHLY recommend this for anyone focusing more on visuals vs. notemods. It requires some *minimal* coding expreience, and can be *slightly* difficult to debug due to differing syntax, but it's where I push most people to when they ask how to make these!
 
 ## Map/Script examples:
 NOTE: Most of these are old V2 and outdated, but many of the concepts (other than fake notes/syntax) still apply to modern modcharting.
