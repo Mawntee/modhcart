@@ -32,11 +32,11 @@ NOTE: Most of these are old V2 and outdated, but many of the concepts (other tha
 - [V3] [Fun!](https://github.com/Mawntee/BS-Modchart-Mapping-Files/tree/main/FUN) - First V3 modchart, very simplistic notemods, njs changes, and arc strobing/flickering effects.
 
 ### Other Mappers:
-- [Swifter](https://github.com/Swifter1243/MapScripts) - TS -> Collection of previous open source map scripts, mostly using his ReMapper framework
-- [StormPacer](https://github.com/StormPacer/Noodle-Maps) - JS
-- [Jevk](https://github.com/Jevk/JevkMaps) - JS -> all outdated V2, but still could be a decent ref
-- [Totally Balloon](https://github.com/Infinit3/le-monke-maps) - TS -> Has a few Blender examples in there as well!
-- [TzurS11](https://github.com/TzurS11/NoodleScript/tree/main/Examples/Scripts) - JS -> all outdated V2/ScuffedWalls, but still could be a decent ref
+- [Swifter](https://github.com/Swifter1243/MapScripts) - [TS] -> Collection of previous open source map scripts, mostly using his ReMapper framework
+- [StormPacer](https://github.com/StormPacer/Noodle-Maps) - [JS]
+- [Jevk](https://github.com/Jevk/JevkMaps) - [JS] -> all outdated V2, but still could be a decent ref
+- [Totally Balloon](https://github.com/Infinit3/le-monke-maps) - [TS] -> Has a few Blender examples in there as well!
+- [TzurS11](https://github.com/TzurS11/NoodleScript/tree/main/Examples/Scripts) - [JS] -> all outdated V2/ScuffedWalls, but still could be a decent ref
 
 ## Discord Servers:
 - [Heck](https://discord.gg/rrZf3kapeh)
