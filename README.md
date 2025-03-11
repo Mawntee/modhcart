@@ -12,6 +12,6 @@ Documenting just about every little tip, trick, feature, or niche thing I can th
 >
 >> ### **Contents:** <br>
 >> **[Getting Started](https://github.com/Mawntee/modhcart/blob/main/Vivify/Starter%20Kit/Getting%20Started.md)** - First time Unity project setup, and prefab/bundle overview. <br>
->> **[Useful Tools and Resources](https://github.com/Mawntee/modhcart/blob/main/Vivify/Starter%20Kit/Essential%20Tools%20and%20Resources.md)** - List of assets and helpful online resources curated by myself and the rest of the TotalBS team.
+>> **[Useful Tools and Resources](https://github.com/Mawntee/modhcart/blob/main/Vivify/Starter%20Kit/Essential%20Tools%20and%20Resources.md)** - Curated list of assets and helpful resources used by myself and the TotalBS team.
 
 
