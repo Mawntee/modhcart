@@ -75,6 +75,10 @@ _Assume all assets are free unless marked with_ `[P]`
 >- *[Documentation for shader creators](https://github.com/llealloo/audiolink/tree/master/Docs)*
 >>Note: *No Udon support - Currently only support for texture/cginc features, excluding global strings and media states <br> (media states can be set through Heck modifier bases)* 
 
+**[hfcRed's Animation Repathing](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools)** `[Recommended]` <br>
+>Tool that automates repathing for animation clips as you shuffle things around in the hierarchy
+>- *I can't stress how much of a life saver this one is for working on Vivify maps omfg*
+
 **[Deadrith's Scripts](https://github.com/Dreadrith)** `[Recommended]` <br>
 > Many small but incredibly useful tools and changes that honestly shoudl be included with the Unity Editor <br>
 >- [HierarchyPlus](https://github.com/Dreadrith/HierarchyPlus) - *Hierarchy window improvements such as component icons, guide lines, row coloring, and customization settings* <br>
