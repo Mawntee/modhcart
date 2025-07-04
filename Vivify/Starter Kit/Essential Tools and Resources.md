@@ -79,13 +79,14 @@ _Assume all assets are free unless marked with_ `[P]`
 >Tool that automates repathing for animation clips as you shuffle things around in the hierarchy
 >- *I can't stress how much of a life saver this one is for working on Vivify maps omfg*
 
-**[Deadrith's Scripts](https://github.com/Dreadrith)** `[Recommended]` <br>
-> Many small but incredibly useful tools and changes that honestly shoudl be included with the Unity Editor <br>
->- [HierarchyPlus](https://github.com/Dreadrith/HierarchyPlus) - *Hierarchy window improvements such as component icons, guide lines, row coloring, and customization settings* <br>
->- [Smart Hierarchy](https://github.com/Dreadrith/Smart-Hierarchy) - *Even more improvements to the Hierarchy window* <br>
->- [Texture Utility](https://github.com/Dreadrith/Unity_TextureUtility) - *Tool for common/basic texture edits and texture packing* <br>
->- [Copy/Cut/Paste](https://github.com/Dreadrith/Unity_CopyCutPaste) - *Adds in the basic options of copy/cut/paste that are missing for some stupid reason* <br>
->- [Animation Hierarchy Editor](https://github.com/Dreadrith/Unity-Animation-Hierarchy-Editor) - *Easily refactor hierarchy of animation clips*
+**[~~Deadrith's~~ OpenVRCTools Scripts](https://github.com/Dreadrith)** `[Recommended]` <br>
+> Many small but incredibly useful tools and changes that honestly should be included with the Unity Editor <br>
+>- [MOVED HERE TO THIS VCC LISTING](https://openvrctools.github.io/VPMRepo/) - Click the three dots beside each item and "Download as Zip"
+>- ~~[HierarchyPlus](https://github.com/Dreadrith/HierarchyPlus)~~ - *Hierarchy window improvements such as component icons, guide lines, row coloring, and customization settings* <br>
+>- ~~[Smart Hierarchy](https://github.com/Dreadrith/Smart-Hierarchy)~~ - *Even more improvements to the Hierarchy window* <br>
+>- ~~[Texture Utility](https://github.com/Dreadrith/Unity_TextureUtility)~~ - *Tool for common/basic texture edits and texture packing* <br>
+>- ~~[Copy/Cut/Paste](https://github.com/Dreadrith/Unity_CopyCutPaste)~~ - *Adds in the basic options of copy/cut/paste that are missing for some stupid reason* <br>
+>- ~~[Animation Hierarchy Editor](https://github.com/Dreadrith/Unity-Animation-Hierarchy-Editor)~~ - *Easily refactor hierarchy of animation clips*
 
 **[Thry's Avatar Performance Tools](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools)** `[Recommended]` <br>
 >Tool to view texture/mesh size, VRAM usage, and easily compress/reformat all textures in a prefab
